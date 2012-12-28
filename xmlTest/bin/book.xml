@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<书架>
+	<书>
+		<书名>Java就业培训教程</书名>
+		<作者>张孝祥</作者>
+
+		<IsEmpty />
+		<售价>59.00元</售价>
+	</书>
+	<书>
+		<书名 name="no name">JavaScript网页开发</书名>
+		<作者>张老师</作者>
+		<售价>28.00元</售价>
+		<IsEmpty />
+	</书>
+
+</书架>

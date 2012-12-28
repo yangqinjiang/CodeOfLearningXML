@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MYFILE SYSTEM "Myfile.dtd">
+<MYFILE>
+		<TITLE></TITLE>
+		<AUTHOR AUTHORID=""></AUTHOR>
+		<EMAIL></EMAIL>
+		<PageAuthor tel="123456"></PageAuthor>
+</MYFILE>
+

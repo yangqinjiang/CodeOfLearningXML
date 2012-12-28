@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE FILESYSTEM SYSTEM "Myfile.dtd">
+<FILESYSTEM>
+	<MYFILE>
+		<TITLE>filename</TITLE>
+		<AUTHOR AUTHORID="">you</AUTHOR>
+		<EMAIL>email at email.com</EMAIL>
+		<PageAuthor tel="123456"></PageAuthor>
+	</MYFILE>
+	<MYFILE>
+		<TITLE></TITLE>
+		<AUTHOR AUTHORID=""></AUTHOR>
+		<EMAIL></EMAIL>
+		<PageAuthor tel="123456"></PageAuthor>
+	</MYFILE>
+</FILESYSTEM>
